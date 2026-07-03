@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://war-gear.com/sitemap.xml
